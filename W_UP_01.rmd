@@ -33,9 +33,13 @@ $H_A$: The average number of pushups done in two minutes by line players is stat
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 Average # of push ups is numerical variable
+
 Skill is a categorical variable
+
 We predict push ups based on positions, 
+
 Push ups~Position
+
 we will use the Numerical~Cat helper file.
 
 
@@ -82,5 +86,5 @@ The T-Test shows that the p-vaule is 0.000009421, so we reject the null hypothes
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Data from georgtown college football team, that came from line and skill position players doing as many pushups they could in two minutes. We then had a null hypothesis that states   There is no difference between the average number of pushups of line can do in 2 minutes, compared to skill players. However we rejected it with a p-vaule of 0.000009, which was less that 0.05. The table from numerical results also showed that on average skill players did about 17 pushups in about two minutes and skilled players did on average about 50 pushups in two minutes. So We conclude that there is a statistical difference in the number of pushups a skilled and line player can do in two minutes. 
+Data from Georgetown college football team, that came from line and skill position players doing as many pushups they could in two minutes. We then had a null hypothesis that states   There is no difference between the average number of pushups of line can do in 2 minutes, compared to skill players. However we rejected it with a p-vaule of 0.000009, which was less that 0.05. The table from numerical results also showed that on average skill players did about 17 pushups in about two minutes and skilled players did on average about 50 pushups in two minutes. So We conclude that there is a statistical difference in the number of pushups a skilled and line player can do in two minutes. 
 
