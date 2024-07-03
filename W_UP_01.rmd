@@ -55,7 +55,8 @@ boxplot(pushups~position,data=mydata)
 ```
 
 
-The barplot shows that....
+The barplot shows that skilled players do more pushups in two minutes than line players can do in two minutes.
+
 
 ### Numerical Descriptive Results
 
@@ -64,6 +65,8 @@ The barplot shows that....
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+
+The table shows that on average line players do about 17 pushups for every two minutes and skill players do about 50 pushups for every 50 pushups for every two minutes. 
 
 ## Inferential Results
 
